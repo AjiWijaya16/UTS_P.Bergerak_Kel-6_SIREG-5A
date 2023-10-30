@@ -1,0 +1,98 @@
+<resources>
+    <string name="app_name">UTS Pemrograman Bergerak</string>
+    <string name="nama">Nama</string>
+    <string name="desc">Deskripsi</string>
+    <string name="email">Email</string>
+    <string name="alamat">Alamat</string>
+    <string-array name="nama_user">
+        <item>Amilia Kartika</item>
+        <item>Devila Jariah</item>
+        <item>Dimas Hadi</item>
+        <item>Elvira Saharani</item>
+        <item>Kevin Geraldy</item>
+        <item>M. Fatkhur Rahman</item>
+        <item>Muhammad Aji Wijaya</item>
+        <item>Muhammad Rizkiansyah</item>
+        <item>Oktari</item>
+        <item>Tanti Ardiana</item>
+        <item>Vazla Annisya</item>
+        <item>Viona Dillarendza</item>
+        <item>Wulandari Wilujeng</item>
+        <item>Yoel Chrystopher</item>
+        <item>Yurnaningsih</item>
+
+    </string-array>
+    <string-array name="desc_user">
+        <item>09031282126055</item>
+        <item>09031282126103</item>
+        <item>09031282126046</item>
+        <item>09031282126109</item>
+        <item>09031282126076</item>
+        <item>09031082126117</item>
+        <item>09031282126040</item>
+        <item>09031182126031</item>
+        <item>09031182126028</item>
+        <item>09031182126025</item>
+        <item>09031282126073</item>
+        <item>09031282126100</item>
+        <item>09031282126064</item>
+        <item>09031182126010</item>
+        <item>09031182126013</item>
+
+    </string-array>
+    <string-array name="alamat_user">
+        <item>Indralaya</item>
+        <item>Palembang</item>
+        <item>Indralaya</item>
+        <item>Indralaya</item>
+        <item>Palembang</item>
+        <item>Palembang</item>
+        <item>Palembang</item>
+        <item>Indralaya</item>
+        <item>Indralaya</item>
+        <item>Indralaya</item>
+        <item>Indralaya</item>
+        <item>Indralaya</item>
+        <item>Palembang</item>
+        <item>Indralaya</item>
+        <item>Indralaya</item>
+
+    </string-array>
+    <string-array name="email_user">
+        <item>09031282126055@student.unsri.ac.id</item>
+        <item>09031282126103@student.unsri.ac.id</item>
+        <item>09031282126046@student.unsri.ac.id</item>
+        <item>09031282126109@student.unsri.ac.id</item>
+        <item>09031282126076@student.unsri.ac.id</item>
+        <item>09031082126117@student.unsri.ac.id</item>
+        <item>09031282126040@student.unsri.ac.id</item>
+        <item>09031182126031@student.unsri.ac.id</item>
+        <item>09031182126028@student.unsri.ac.id</item>
+        <item>09031182126025@student.unsri.ac.id</item>
+        <item>09031282126073@student.unsri.ac.id</item>
+        <item>09031282126100@student.unsri.ac.id</item>
+        <item>09031282126064@student.unsri.ac.id</item>
+        <item>09031182126010@student.unsri.ac.id</item>
+        <item>09031182126013@student.unsri.ac.id</item>
+
+    </string-array>
+
+    <integer-array name="photo_user">
+        <item>@drawable/amel</item>
+        <item>@drawable/devila</item>
+        <item>@drawable/dimas</item>
+        <item>@drawable/elvira</item>
+        <item>@drawable/kepin</item>
+        <item>@drawable/ajis</item>
+        <item>@drawable/aji</item>
+        <item>@drawable/rizki</item>
+        <item>@drawable/oktari</item>
+        <item>@drawable/tanti</item>
+        <item>@drawable/vazla</item>
+        <item>@drawable/ona</item>
+        <item>@drawable/wulan</item>
+        <item>@drawable/yoel</item>
+        <item>@drawable/yurna</item>
+
+    </integer-array>
+</resources>
